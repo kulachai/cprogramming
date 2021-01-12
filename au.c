@@ -17,4 +17,7 @@ scanf("%d" ,&num2);
 
 total = num1 + num2;
 printf("output is %d\n", total);
+
+
+printf("Au");
 }
